@@ -1,13 +1,3 @@
 git log -> te muestra todos los commits 
 git commit -a -m -> bucar -> no pasa por el intermedio -> de frente al repo
 git checkout -> permite regresar a versión anterior
-git log --graph -oneline -> te muestra los commits en una sola linea
-
-ejem:
-
-git switch ramal
-vim MiPrimerArchivo.txt
-
-git commit -a -m "name"
-
-rama principal master
