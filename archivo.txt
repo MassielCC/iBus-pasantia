@@ -1,4 +1,5 @@
 git log -> te muestra todos los commits 
+git log --oneline -> todos los commits en una sola linea de codigo
 git commit -a -m -> bucar -> no pasa por el intermedio -> de frente al repo
 git checkout -> permite regresar a versión anterior
 git init
