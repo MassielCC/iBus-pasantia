@@ -1,4 +1,10 @@
 Primer intento con vim
 Modificación
 git log -> te muestra todos los commits 
-git commit -a -m -> salta el intermedio
+git log --oneline -> todos los commits en una sola linea de codigo
+git commit -a -m -> bucar -> no pasa por el intermedio -> de frente al repo
+git checkout -> permite regresar a versión anterior
+git init
+git clone
+git switch
+git checkout
