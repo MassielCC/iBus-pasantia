@@ -1,0 +1,5 @@
+Primer archivo
+1
+2
+3
+Linea de conflicto - Rama master
