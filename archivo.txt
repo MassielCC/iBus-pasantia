@@ -1,3 +1,4 @@
+Primer intento con vim
+Modificación
 git log -> te muestra todos los commits 
-git commit -a -m -> bucar -> no pasa por el intermedio -> de frente al repo
-git checkout -> permite regresar a versión anterior
+git commit -a -m -> salta el intermedio
